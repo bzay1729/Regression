@@ -24,3 +24,10 @@ scikit-learn is recommended for its faster performance in real-world deployment 
 **Usage**
 
 You can find the implementation in this repository, along with the code and results for both the custom and scikit-learn models.
+
+## Team Members
+- Aakhya Chaudhary
+- Bijay Pokhrel (Lead Developer)
+- Hiren Bagga
+
+**Bijay Pokhrel was responsible for the majority of the coding, model development, and optimization.**
